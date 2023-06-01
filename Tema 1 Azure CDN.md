@@ -6,12 +6,12 @@ Azure CDN (Content Delivery Network) es un servicio proporcionado por Microsoft 
 
 #### ¿Cuáles son los beneficios de utilizar Azure CDN en términos de rendimiento y escalabilidad?
 
-1. Mejora del rendimiento
-2. Mayor velocidad de carga
-3. Reducción de carga del servidor
-4. Escalabilidad global
-5. Capacidad para manejar los picos de tráfico
-6. Ahorro de ancho de banda
+- Mejora del rendimiento
+- Mayor velocidad de carga
+- Reducción de carga del servidor
+- Escalabilidad global
+- Capacidad para manejar los picos de tráfico
+- Ahorro de ancho de banda
 
 #### ¿Cómo se configura y se utiliza Azure CDN para acelerar la entrega de contenido estático y dinámico en una aplicación web?
 

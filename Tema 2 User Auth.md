@@ -6,22 +6,22 @@ Azure Functions es un servicio de cómputo sin servidor ofrecido por Microsoft A
 
 Las Azure Functions se utilizan para:
 
-1. Procesamiento de eventos
-2. Integración de sistemas y servicios
-3. Desarrollo de API y servicios web
-4. Tareas programadas y procesamiento por lotes
-5. Eventos basados en IoT
-6. Extensiones y personalización
+- Procesamiento de eventos
+- Integración de sistemas y servicios
+- Desarrollo de API y servicios web
+- Tareas programadas y procesamiento por lotes
+- Eventos basados en IoT
+- Extensiones y personalización
 
 #### ¿Cuáles son los desencadenadores (triggers) más comunes en Azure Functions?
 
-1. HTTP Trigger
-2. Timer Trigger
-3. Blob Trigger
-4. Queue Trigger
-5. Event Grid Trigger
-6. Cosmos DB Trigger
-7. Service Bus Trigger
+- HTTP Trigger
+- Timer Trigger
+- Blob Trigger
+- Queue Trigger
+- Event Grid Trigger
+- Cosmos DB Trigger
+- Service Bus Trigger
 
 #### ¿Cómo se configura y se despliega una Azure Function?
 
