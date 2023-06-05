@@ -39,15 +39,15 @@ Las Azure Functions se utilizan para:
 
 #### You need to resolve a notification latency issue. Which two actions should you perform? Each correct answer presents part of the solution.
 
- A. Set Always On to true.
- B. Ensure that the Azure Function is using an App Service plan.
+ A. **Set Always On to true.**
+ B. **Ensure that the Azure Function is using an App Service plan.**
  C. Set Always On to false.
  D. Ensure that the Azure Function is set to use a consumption plan.
 
 #### You are developing an Azure Function App that processes images that are uploaded to an Azure Blob container. Images must be processed as quickly as possible after they are uploaded, and the solution must minimize latency. You create code to process images when the Function App is triggered. You need to configure the Function App. What should you do?
 
  A. Use an App Service plan. Configure the Function App to use an Azure Blob Storage input trigger.
- B. Use a Consumption plan. Configure the Function App to use an Azure Blob Storage trigger.
+ B. **Use a Consumption plan. Configure the Function App to use an Azure Blob Storage trigger.**
  C. Use a Consumption plan. Configure the Function App to use a Timer trigger.
  D. Use an App Service plan. Configure the Function App to use an Azure Blob Storage trigger.
  E. Use a Consumption plan. Configure the Function App to use an Azure Blob Storage input trigger.
