@@ -36,12 +36,11 @@ Para controlar otras aplicaciones se debe integrar la SDK de Application Insight
 ### QUESTION 1 Pag 175
 You need to investigate the Azure Function app error message in the development environment.
 What should you do?
-A. Connect Live Metrics Stream from Application Insights to the Azure Function app and filter the metrics.
-B. Create a new Azure Log Analytics workspace and instrument the Azure Function app with Application
-Insights.
-C. Update the Azure Function app with extension methods from Microsoft.Extensions.Logging to log
-events by using the log instance.
-D. Add a new diagnostic setting to the Azure Function app to send logs to Log Analytics.
+- A. Connect Live Metrics Stream from Application Insights to the Azure Function app and filter the metrics.
+- B. Create a new Azure Log Analytics workspace and instrument the Azure Function app with Application Insights.
+- C. Update the Azure Function app with extension methods from Microsoft.Extensions.Logging to log events by using the log instance.
+- D. Add a new diagnostic setting to the Azure Function app to send logs to Log Analytics.
+
 Correct Answer: A
 
 Explanation:
@@ -60,11 +59,15 @@ other than Microsoft SQL Server.
 You need to ensure that dependency tracking works for calls to the third-party database.
 Which two dependency telemetry properties should you use? Each correct answer presents part of the
 solution.
-NOTE: Each correct selection is worth one point.
+
 A. Telemetry.Context.Cloud.RoleInstance
+
 B. Telemetry.Id
+
 C. Telemetry.Name
+
 D. Telemetry.Context.Operation.Id
+
 E. Telemetry.Context.Session.Id
 
 Correct Answer: BD
@@ -86,6 +89,7 @@ Which two test types can you use? Each correct answer presents a complete soluti
 - C. URL ping
 - D. unit
 - E. load
+
 Correct Answer: BC
 
 Explanation:
