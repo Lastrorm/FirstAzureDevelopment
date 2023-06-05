@@ -73,7 +73,7 @@ Para realizar un seguimiento adecuado de las dependencias en las llamadas a base
 
 Estas propiedades facilitan la correlación de operaciones entre diversos componentes de la aplicación, asegurando así un rastreo preciso de las dependencias a travez de Azure Application Insights.
 
-### QUESTION 4
+### QUESTION 4 Pag 195
 You develop and deploy an ASP.NET web app to Azure App Service. You use Application Insights
 telemetry to monitor the app.
 You must test the app to ensure that the app is available and responsive from various points around the
@@ -81,11 +81,11 @@ world and at regular intervals. If the app is not responding, you must send an a
 You need to configure a test for the web app.
 Which two test types can you use? Each correct answer presents a complete solution.
 
-A. integration
-B. multi-step web
-C. URL ping
-D. unit
-E. load
+- A. integration
+- B. multi-step web
+- C. URL ping
+- D. unit
+- E. load
 Correct Answer: BC
 
 Explanation:
